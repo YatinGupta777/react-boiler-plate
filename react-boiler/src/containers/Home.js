@@ -12,6 +12,7 @@ function Home() {
 
   return (
     <div>
+      Hello
       <CustomAlert />
     </div>
   );
